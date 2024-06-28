@@ -1,6 +1,6 @@
 # 🧬 Cancer EDA Analytics Project
 
-![Cancer Analysis](https://github.com/Fatma-Nur-Azman/EDA_Projects/blob/main/EDA_03_CANCER_ANALYSIS/cancer_analysis.png)
+![Cancer Analysis](https://github.com/Fatma-Nur-Azman/EDA_Projects/blob/main/EDA_03_CANCER_ANALYSIS/cancer.jpg)
 
 
 ## 📌 Overview
